@@ -4,6 +4,7 @@ on: [workflow_dispatch]
 
 jobs:
   deploy:
+    environment: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Git Checkout
