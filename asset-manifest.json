@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://ongsterr.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://ongsterr.github.io/task-management-frontend/static/js/main.bbd56e04.chunk.js",
-    "main.js.map": "https://ongsterr.github.io/task-management-frontend/static/js/main.bbd56e04.chunk.js.map",
+    "main.js": "https://ongsterr.github.io/task-management-frontend/static/js/main.2ed83694.chunk.js",
+    "main.js.map": "https://ongsterr.github.io/task-management-frontend/static/js/main.2ed83694.chunk.js.map",
     "runtime~main.js": "https://ongsterr.github.io/task-management-frontend/static/js/runtime~main.c81082a9.js",
     "runtime~main.js.map": "https://ongsterr.github.io/task-management-frontend/static/js/runtime~main.c81082a9.js.map",
-    "static/js/2.298a3cdb.chunk.js": "https://ongsterr.github.io/task-management-frontend/static/js/2.298a3cdb.chunk.js",
-    "static/js/2.298a3cdb.chunk.js.map": "https://ongsterr.github.io/task-management-frontend/static/js/2.298a3cdb.chunk.js.map",
+    "static/js/2.de63ffb7.chunk.js": "https://ongsterr.github.io/task-management-frontend/static/js/2.de63ffb7.chunk.js",
+    "static/js/2.de63ffb7.chunk.js.map": "https://ongsterr.github.io/task-management-frontend/static/js/2.de63ffb7.chunk.js.map",
     "index.html": "https://ongsterr.github.io/task-management-frontend/index.html",
-    "precache-manifest.1a1838a1ee3263610d4568a1ae0cff96.js": "https://ongsterr.github.io/task-management-frontend/precache-manifest.1a1838a1ee3263610d4568a1ae0cff96.js",
+    "precache-manifest.2e92c0d969ab35c054fbe1070c512fb6.js": "https://ongsterr.github.io/task-management-frontend/precache-manifest.2e92c0d969ab35c054fbe1070c512fb6.js",
     "service-worker.js": "https://ongsterr.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://ongsterr.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
